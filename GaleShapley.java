@@ -19,8 +19,6 @@
   - Associated files:    None
   __________________________________________________________________________________________________________*/
 
-package Assignment_1;
-
 public class GaleShapley {
 	
 	private int[] queue; //this queue will be used in order to store single men. Married men will be dequeued, single / divorced men will be enqueued
